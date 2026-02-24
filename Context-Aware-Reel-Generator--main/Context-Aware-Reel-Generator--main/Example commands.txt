@@ -1,0 +1,2 @@
+python reel_generator.py
+# Then enter YouTube URL when prompted
